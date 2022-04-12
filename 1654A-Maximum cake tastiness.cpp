@@ -5,6 +5,7 @@
 #include<cmath>
 using namespace std;
                           
+
                          //USA USA !!
 int main(){
 int t; cin>>t;
